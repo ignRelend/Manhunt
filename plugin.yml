@@ -1,0 +1,7 @@
+main: me.relend.manhunt.Manhunt
+name: Manhunt
+version: 1.0
+api-version: 1.17
+commands:
+  manhunt:
+    description: Open the manhunt menu!
